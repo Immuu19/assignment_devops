@@ -1,1 +1,2 @@
 print ("THIS IS TEST 3")
+print ("THIS FILE IS USED TO CHECK BUILD")
