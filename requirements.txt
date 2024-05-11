@@ -1,4 +1,4 @@
 # Requirements for MyProject
 
 requests==2.26.0
-
+pytest==8.2.0
